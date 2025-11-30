@@ -1,9 +1,5 @@
 # Análisis de Factores que Influyen en el Rendimiento Académico
 
-**Autor:** [Tu nombre]  
-**Fecha:** \today  
-
----
 
 ## 1. Introducción
 
